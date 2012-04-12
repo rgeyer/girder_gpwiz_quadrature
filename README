@@ -1,0 +1,3 @@
+This is some simple LUA script to translate input from a small rotary encoder, fed into a GPWiz, and turn it into up/down messages in Girder.
+
+http://www.mp3car.com/input-devices/93983-my-alps-rkjxt-encoder-solution.html
